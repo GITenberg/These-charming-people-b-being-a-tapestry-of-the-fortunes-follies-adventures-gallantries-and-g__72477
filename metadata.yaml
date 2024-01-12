@@ -1,0 +1,44 @@
+_repo: These-charming-people-b-being-a-tapestry-of-the-fortunes-follies-adventures-gallantries-and-g__72477
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arlen, Michael
+    aliases:
+    - Kouyoumdjian, Dikran
+    - Kouyoumjian, Dikran
+    - Kuyumjian, Dikran
+    - Guyumchean, Tigran
+    - Guyumchyan, Tigran
+    - Guyumchian, Tigran
+    - Guyumjyan, Tigran
+    - Kuyumchean, Dikran
+    - Kuyumcuyan, Dikran
+    birthdate: 1895
+    deathdate: 1956
+    gutenberg_agent_id: '40583'
+    url: http://www.gutenberg.org/2009/agents/40583
+    wikipedia: https://en.wikipedia.org/wiki/Michael_Arlen
+description: ''
+gutenberg_issued: '2023-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72477'
+language: en
+pgterms:marc904: https://archive.org/details/thesecharmingpeo0000mich
+pgterms:marc905: 20230201110729arlen
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+publication_note: '  $aNYC :$bGeorge H. Doran Company, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'These charming people : $b being a tapestry of the fortunes, follies, adventures,
+  gallantries and general activities of Shelmerdene (that lovely lady), Lord Tarlyon,
+  Mr. Michael Wagstaffe, Mr. Ralph Wyndham Trevor and some others of their friends
+  of the lighter sort'
+url: http://www.gutenberg.org/ebooks/72477
