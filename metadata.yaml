@@ -1,5 +1,8 @@
 _repo: These-charming-people-b-being-a-tapestry-of-the-fortunes-follies-adventures-gallantries-and-g__72477
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72477-h/images/cover.jpg
 creator:
   author:
     agent_name: Arlen, Michael
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40583
     wikipedia: https://en.wikipedia.org/wiki/Michael_Arlen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72477#These-charming-people-b-being-a-tapestry-of-the-fortunes-follies-adventures-gallantries-and-g_
 gutenberg_issued: '2023-12-22'
 gutenberg_type: Text
 identifiers:
